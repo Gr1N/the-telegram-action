@@ -1,5 +1,7 @@
 # the-telegram-action
 
+> Project archived, please use https://github.com/appleboy/telegram-action as a better replacement.
+
 This action wraps the Telegram [postMessage](https://core.telegram.org/bots/api#sendmessage) for posting messages to the target chat or username of the target channel (in the format `@channelusername`).
 
 ## Use
